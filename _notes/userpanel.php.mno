@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_userpanel" value="name:uid;datatype:string,name:username;datatype:string,name:password;datatype:string,name:accesslevel;datatype:int,name:regdatetime;datatype:timestamp" />
+	<infoitem key="UD_userupdate" value="name:username;datatype:string,name:e-wallet cash;datatype:int,name:previous journey;datatype:string" />
+</info>
